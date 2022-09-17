@@ -23,7 +23,7 @@ body{
 }
 
 #input-email{
-   left: 30px;
+   left: 35px;
    top: 10px;
    position: absolute;
 }
@@ -51,7 +51,7 @@ body{
       width: 250px;
       height: 500px;
       position: absolute;
-      left: 100px;
+      left: 550px;
       border-color: black;
       border-style: solid;
       border-radius: 15px;
@@ -61,19 +61,5 @@ body{
       left: 30px;
       top: 10px;
       position: absolute;
-   }
-   
-   #submit-form{
-      position: absolute;
-      left: 95px;
-      top: 40px;
-   }
-   
-   .texto-extra-form{
-      font-family: arial;
-      position: relative;
-      left: 53px;
-      top: 100px;
-   
    }
 }
